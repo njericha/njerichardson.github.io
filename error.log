@@ -124,3 +124,87 @@ Sat Jul 15 2023 10:17:52 GMT-0700 (Pacific Daylight Time)
 fatal: not a git repository (or any of the parent directories): .git
 
 
+----------
+
+Sat Jul 15 2023 10:31:49 GMT-0700 (Pacific Daylight Time)
+
+The system cannot find the path specified.
+
+
+----------
+
+Sat Jul 15 2023 10:31:49 GMT-0700 (Pacific Daylight Time)
+
+fatal: not a git repository (or any of the parent directories): .git
+
+
+----------
+
+Sat Jul 15 2023 10:31:49 GMT-0700 (Pacific Daylight Time)
+
+fatal: not a git repository (or any of the parent directories): .git
+
+
+----------
+
+Sat Jul 15 2023 10:31:49 GMT-0700 (Pacific Daylight Time)
+
+fatal: not a git repository (or any of the parent directories): .git
+
+
+----------
+
+Sat Jul 15 2023 10:33:45 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/bootstrap/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Sat Jul 15 2023 10:33:45 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/bootstrap/js/bootstrap.min.js', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Sat Jul 15 2023 10:33:45 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'error.log', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Sat Jul 15 2023 10:33:45 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'export.bat', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Sat Jul 15 2023 10:33:45 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Sat Jul 15 2023 10:33:45 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'research.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Sat Jul 15 2023 10:33:45 GMT-0700 (Pacific Daylight Time)
+
+error: pathspec 'update.ΓÇ¥' did not match any file(s) known to git
+
+
+----------
+
+Sat Jul 15 2023 10:33:47 GMT-0700 (Pacific Daylight Time)
+
+Everything up-to-date
+
+
